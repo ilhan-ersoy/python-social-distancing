@@ -2,15 +2,7 @@
 
 
 
-## Python ile görüntü işleyerek sosyal mesafe analizi  💻
+## Social distance analysis with python  💻
 
 
-## Hazırlayanlar ✍️
-Hasan Demir &
-İlhan Ersoy &
-Berk Tunç &
-Alp Yılmaz
-
-
-## http://levent.tc/files/courses/object_oriented_design/projects/project3/BLM205_sosyal_mesafe_analizi.pdf
 
