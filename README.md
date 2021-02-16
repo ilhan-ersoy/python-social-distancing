@@ -2,7 +2,7 @@
 
 
 
-## Social distance analysis with python  💻
+## Social distance analysis with python  💻 for covid-19
 
 
 
